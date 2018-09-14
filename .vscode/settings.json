@@ -1,0 +1,6 @@
+{
+    "prettier.eslintIntegration": true,
+    "eslint.alwaysShowStatus": true,
+    "prettier.singleQuote": true,
+    "prettier.stylelintIntegration": true
+}
